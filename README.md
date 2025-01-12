@@ -10,4 +10,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor Trainee em busca de aprendizado! Conhecimento é a ferramenta, aprendizado é o combustível🚀!
+💻 Desenvolvedor Trainee obcecado por aprender! Conhecimento é a ferramenta, aprendizado é o combustível🚀!
