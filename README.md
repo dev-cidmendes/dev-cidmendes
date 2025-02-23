@@ -11,4 +11,5 @@
 </div><br/>
 
 Estudante de Gestão de T.I
+
 Python Developer
